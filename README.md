@@ -107,14 +107,10 @@ if __name__ == '__main__':
 ## Result
 This read and write method can maximize the efficiency of disk and CPU, and achieve efficient and fast reading and writing Tif images.
 
-## Video Read
-[The video for fast reading images](https://github.com/QuantingweiImage/BioimageVision-SpeedTIFIO/assets/41601635/c5f85bf8-ab4e-4c8c-a2a1-713db3d16004)
-## Video Write
-[The video for fast Writing images](https://github.com/Quanlab-Bioimage/BioimageVision-SpeedTIFF/assets/41601635/34a59c19-3ddc-47e2-bc6a-25acfa97d2c3)
-
 ## Notes
 
 The API for load of Bio-VS format on linux version is coming soon.
 
 ## Technique Help
+cailin0227@hust.edu.cn
 quxuzhong@hust.edu.cn
